@@ -13,7 +13,7 @@ const TweetService = () => {
 
   // JSONBin.io設定
   const JSONBIN_BIN_ID = '68539e0d8561e97a5026f8bd';
-  const JSONBIN_API_KEY = '$2a$10$hnfwSa2yXMZEd7v5.w.BY.yyHh7hkaPSDqZKq1MfgGgmqvTYvBTRS';
+  const JSONBIN_API_KEY = '$2a$10$ZRCyJnRxz4FeJxz/WUCdJ.cVXXia2kXk555dmpJ3A9M.Qde1/orLC';
   const JSONBIN_BASE_URL = 'https://api.jsonbin.io/v3';
 
   // 初回読み込み
