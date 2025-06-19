@@ -12,7 +12,7 @@ const TweetService = () => {
   const [isOnline, setIsOnline] = useState(true);
 
   // JSONBin.io設定
-  const JSONBIN_BIN_ID = '6853825f8a456b7966b0c79b';
+  const JSONBIN_BIN_ID = '68539e0d8561e97a5026f8bd';
   const JSONBIN_API_KEY = '$2a$10$hnfwSa2yXMZEd7v5.w.BY.yyHh7hkaPSDqZKq1MfgGgmqvTYvBTRS';
   const JSONBIN_BASE_URL = 'https://api.jsonbin.io/v3';
 
